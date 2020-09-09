@@ -1,5 +1,5 @@
-# Idiomas
-> Esta pasta vídeos editados/produzidos por mim
+# Vídeos
+> Esta pasta possui vídeos editados/produzidos por mim
 
 ## Descrições
 - promo1: Vídeo promocional para ser postado no story do Instagram
