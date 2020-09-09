@@ -4,11 +4,6 @@
 ## Instagram
 - Filtros disponiveis na aba "filtros" dos perfis linkados) e prints em anexo
 > https://www.instagram.com/mariatandrioli/ (todos)
-    -
-    -
-    -
-    -
-    -
 > https://www.instagram.com/girlsrockcamp_curitiba (efeito "Camp2020")
 > https://www.instagram.com/cervejadadoc7 (efeito "na cervejada do c7")
 > https://www.instagram.com/filetdoc7 (efeito "no f.i.l.e.t do c7")
