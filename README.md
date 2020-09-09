@@ -33,6 +33,11 @@ divulgação da marca
 SCRUM Master e ferramentas como Bootstrap, Git, Laravel e HTML/CSS juntamente
 com técnicas de SEO e responsividade.
 
+### Extracurriculares
+###### Hela: Comissão Anti Opressões do CESETE (Conselho dos Estudantes do Setor de Tecnologia )
+Participação na CAO (Comissão Anti Opressões), projeto que busca promover discussões, debates, campanhas e palestras, de forma a combater ativamente comportamentos ofensivos, machistas, racistas, LGBTfóbicos e quaisquer outros que menosprezem um indivíduo por ser quem ele é. Esses objetivos são atingidos através da organização de diversas rodas de conversas e palestras tanto internas para os membros do CESETE, quanto externas para toda a comunidade de UFPR.
+
+
 ### Voluntariado
 ###### TETO
 *Abril/2018*
