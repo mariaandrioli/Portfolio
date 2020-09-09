@@ -1,4 +1,4 @@
-# Portfolio de Maria Teresa Kravetz Andrioli
+# Maria Teresa Kravetz Andrioli
 
 > mariakandrioli@gmail.com || www.linkedin.com/in/mariateresaandrioli
 
